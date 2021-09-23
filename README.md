@@ -1,4 +1,4 @@
-# Welcome to SIMFORM CATEGORIES PROJECT
+# Welcome to CATEGORIES PROJECT
 
 ## Available Scripts
 
